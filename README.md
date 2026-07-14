@@ -222,7 +222,22 @@ python -m streamlit run app/streamlit_app.py
 
 ### Streamlit Dashboard
 
-(Add Screenshot Here)
+<img width="1865" height="837" alt="Screenshot 2026-07-14 135305" src="https://github.com/user-attachments/assets/1e3a7283-7f02-4dc0-b162-435944fc7a87" />
+<img width="1898" height="857" alt="Screenshot 2026-07-14 135234" src="https://github.com/user-attachments/assets/e39a7045-4be0-4000-a5f4-927b90dc2077" />
+<img width="1448" height="713" alt="Screenshot 2026-07-14 135356" src="https://github.com/user-attachments/assets/fba6aaea-8f3f-4ce7-808d-9cba0ccc1181" />
+<img width="1447" height="562" alt="Screenshot 2026-07-14 135408" src="https://github.com/user-attachments/assets/4a23857c-7c8c-4e6d-9aca-787bff143280" />
+<img width="1442" height="547" alt="Screenshot 2026-07-14 135424" src="https://github.com/user-attachments/assets/b326a96c-e4e3-4814-803b-457f7985cb7c" />
+<img width="1426" height="552" alt="Screenshot 2026-07-14 135435" src="https://github.com/user-attachments/assets/16c71323-c438-467a-84c7-0d2ae804082d" />
+<img width="1452" height="690" alt="Screenshot 2026-07-14 135450" src="https://github.com/user-attachments/assets/38167712-6d25-4a84-b9f2-187870a8b449" />
+<img width="1303" height="247" alt="Screenshot 2026-07-14 135500" src="https://github.com/user-attachments/assets/497c74e4-4462-409d-b80f-367aa2647e69" />
+
+
+
+
+
+
+
+
 
 ---
 
